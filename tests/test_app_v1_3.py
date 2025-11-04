@@ -1,6 +1,6 @@
 import json
 import pytest
-from app_v1_3.app import app   # Importing the Flask app
+from app_v1_3.app_v1_3 import app   # Importing the Flask app
 
 # Fixture to create a test client
 @pytest.fixture
