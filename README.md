@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# Assignment2-2024tm93073-Introduction-to-DEVOPS-
-
-![CI](https://github.com/TheHMK/Assignment2-2024tm93073-Introduction-to-DEVOPS-/actions/workflows/ci.yml/badge.svg)
-
-This is a Flask-based Fitness Tracking API developed as part of DevOps learning. It demonstrates CI/CD pipelines, Dockerization, Kubernetes deployment, and automation using Jenkins.
-=======
 # ACEest Fitness & Gym – DevOps Assignment
 
 ![CI](https://github.com/TheHMK/Assignment2-2024tm93073-Introduction-to-DEVOPS-/actions/workflows/ci.yml/badge.svg)
@@ -103,4 +96,3 @@ kubectl apply -f kubernetes/canary.yml
 
 **ACEest Fitness DevOps Project**  
 Rahul Harmalkar
->>>>>>> 67fa2c1 (Initial commit)
