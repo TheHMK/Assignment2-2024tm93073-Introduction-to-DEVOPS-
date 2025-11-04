@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: aceest-config
+data:
+  APP_NAME: "ACEest Fitness Flask App"
+  APP_VERSION: "v1.3"
