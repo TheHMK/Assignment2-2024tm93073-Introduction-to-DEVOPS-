@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: aceest-fitness
-        image: your-dockerhub-username/aceest-fitness:v1.2
+        image: rahul-mtech/aceest-fitness:v1.2
         ports:
         - containerPort: 5000
 
@@ -48,7 +48,7 @@ spec:
     spec:
       containers:
       - name: aceest-fitness
-        image: your-dockerhub-username/aceest-fitness:v1.3
+        image: rahul-mtech/aceest-fitness:v1.3
         ports:
         - containerPort: 5000
 

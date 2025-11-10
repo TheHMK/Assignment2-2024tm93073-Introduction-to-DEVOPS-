@@ -5,7 +5,7 @@ pipeline {
         REPO_URL = 'https://github.com/Assignment2-2024tm93073-Introduction-to-DEVOPS-.git'
         DOCKER_IMAGE = 'aceest-fitness-app'
         DOCKER_TAG = 'v1.3'
-        DOCKERHUB_USER = 'rahul-mtech'   // Replace with your username
+        DOCKERHUB_USER = 'rahul-mtech'
     }
 
     stages {
